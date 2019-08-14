@@ -1,0 +1,21 @@
+{
+  "name": "ferrilata",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "supertest": "^4.0.2",
+    "tape": "^4.11.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+		"start": "node index.js",
+    "test": "node ./test/test.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
