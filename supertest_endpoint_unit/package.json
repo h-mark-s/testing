@@ -7,7 +7,7 @@
     "test": "test"
   },
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "supertest": "^4.0.2",
     "tape": "^4.11.0"
   },
